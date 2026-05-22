@@ -1,23 +1,10 @@
 # Daniil A. Baranov
 
-**PhD candidate · Computational structural biology ⨉ experimental validation**
+**PhD candidate | Computational structural biology and experimental validation**
 
-I work at the interface of *in silico* design and the wet lab. My research uses AI-driven
-modelling and Molecular Dynamics to understand protein–protein interactions and to design
-binders for difficult targets — with a focus on **GPCRs** and proteins involved in
-**neurodegenerative disorders**. I then take those predictions back to the bench, using
-cell-based assays and biophysical methods to test whether they hold up in reality.
+I work at the interface of computational structural biology and experimental validation. I leverage AI-driven modelling and Molecular Dynamics (MD) simulations to analyse complex protein-protein interactions (PPIs) and design binders for challenging targets, including GPCRs and proteins involved in neurodegenerative disorders. To bridge the gap between *in silico* predictions and empirical reality, I employ functional cell-based assays and biophysical characterisation.
 
-In short: I build computational hypotheses and I test them experimentally.
-
----
-
-### Research focus
-
-- **GPCR-targeted peptide & binder design** — structure-based design and ranking of bioactive peptides
-- **Neurodegeneration** — α-synuclein oligomerisation, GBA1–SCARB2 dynamics, FABP5 druggability (Parkinson's, MLD)
-- **Protein–protein interactions** — interaction fingerprinting and free-energy-based affinity assessment
-- **Bridging prediction and experiment** — closing the loop between models and functional data
+In short: I build computational hypotheses and test them experimentally.
 
 ---
 
@@ -46,17 +33,16 @@ In short: I build computational hypotheses and I test them experimentally.
 
 ### Currently
 
-- Finalising my PhD at Newcastle University (thesis submitted — viva pending)
-- EPSRC Impact Acceleration Account named researcher on FABP5 druggability in Parkinson's & MLD
+- Finalising my PhD at Newcastle University (thesis submitted, awaiting viva)
 - Open to research roles bridging computational structural biology and experimental work
 
 ---
 
 ### Selected publications
 
-- Nguyen, Weiland, Loi, … **Baranov**, … Bange & Antelmann. *Structural basis of quinone-sensing by the MarR-type repressor MhqR in* Staphylococcus aureus. [DOI](https://doi.org/10.1128/mbio.03292-25)
-- Al-Rawe, **Baranov**, Bronowska, Cano, Carroll & Waddell (2024). *Polymorphism in N-(3-Hydroxyphenyl)-3-methoxybenzamide.* Crystals, 14, 1070. [DOI](https://doi.org/10.3390/cryst14121070)
-- Catchpole, … **Baranov**, … Korolchuk & Erskine. *Neuropathology-driven drug discovery: rapamycin rescues cell death induced by lysosulphatide in MLD.* (Submitted, Acta Neuropathologica)
+- Nguyen, T.T.P., Weiland, P., Loi, V.V., … **Baranov, D.**, … Bange, G., & Antelmann, H. (2025) *Structural basis of quinone-sensing by the MarR-type repressor MhqR in* Staphylococcus aureus. [DOI](https://doi.org/10.1128/mbio.03292-25)
+- Al-Rawe S.K., **Baranov D.**, Bronowska, A.K., Cano, C., Carroll, M.A., & Waddell P.G. (2024). *Polymorphism in N-(3-Hydroxyphenyl)-3-methoxybenzamide.* Crystals, 14, 1070. [DOI](https://doi.org/10.3390/cryst14121070)
+- Catchpole, Z., ..., **Baranov, D.**, ..., Korolchuk, V.I., & Erskine, D. *Neuropathology-driven drug discovery: rapamycin rescues cell death induced by lysosulphatide in MLD.* (Submitted, Acta Neuropathologica)
 
 ---
 
