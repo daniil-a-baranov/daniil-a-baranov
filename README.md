@@ -12,14 +12,14 @@ In short: I build computational hypotheses and test them experimentally.
 
 **Computational**
 
-![AlphaFold](https://img.shields.io/badge/AlphaFold-3776AB?style=flat&logoColor=white)
+![AlphaFold](https://img.shields.io/badge/AlphaFold-structure%20prediction-1f6feb?style=flat)
 ![GROMACS](https://img.shields.io/badge/GROMACS-MD%20simulations-1f6feb?style=flat)
-![CHARMM-GUI](https://img.shields.io/badge/CHARMM--GUI-system%20assembly-555?style=flat)
-![ProLIF](https://img.shields.io/badge/ProLIF-interaction%20fingerprints-555?style=flat)
-![MM/GBSA](https://img.shields.io/badge/MM%2FGBSA-binding%20free%20energy-555?style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VMD](https://img.shields.io/badge/VMD%20%2F%20Chimera-visualisation-555?style=flat)
+![CHARMM-GUI](https://img.shields.io/badge/CHARMM--GUI-system%20assembly-1f6feb?style=flat)
+![ProLIF](https://img.shields.io/badge/ProLIF-interaction%20fingerprints-1f6feb?style=flat)
+![MM/GBSA](https://img.shields.io/badge/MM%2FGBSA-binding%20free%20energy-1f6feb?style=flat)
+![Python](https://img.shields.io/badge/Python-data%20analysis-1f6feb?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-shell%20%2F%20HPC-1f6feb?style=flat&logo=linux&logoColor=white)
+![VMD](https://img.shields.io/badge/VMD%20%2F%20Chimera-visualisation-1f6feb?style=flat)
 
 **Experimental**
 
