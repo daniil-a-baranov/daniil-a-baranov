@@ -12,20 +12,20 @@ In short: I build computational hypotheses and test them experimentally.
 
 **Computational**
 
-![AlphaFold](https://img.shields.io/badge/AlphaFold-structure%20prediction-1f6feb?style=flat)
+![AlphaFold](https://img.shields.io/badge/AlphaFold-Structure%20prediction-1f6feb?style=flat)
 ![GROMACS](https://img.shields.io/badge/GROMACS-MD%20simulations-1f6feb?style=flat)
-![CHARMM-GUI](https://img.shields.io/badge/CHARMM--GUI-system%20assembly-1f6feb?style=flat)
-![ProLIF](https://img.shields.io/badge/ProLIF-interaction%20fingerprints-1f6feb?style=flat)
-![MM/GBSA](https://img.shields.io/badge/MM%2FGBSA-binding%20free%20energy-1f6feb?style=flat)
-![Python](https://img.shields.io/badge/Python-data%20analysis-1f6feb?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-shell%20%2F%20HPC-1f6feb?style=flat&logo=linux&logoColor=white)
-![VMD](https://img.shields.io/badge/VMD%20%2F%20Chimera-visualisation-1f6feb?style=flat)
+![CHARMM-GUI](https://img.shields.io/badge/CHARMM--GUI-System%20assembly-1f6feb?style=flat)
+![ProLIF](https://img.shields.io/badge/ProLIF-Interaction%20fingerprints-1f6feb?style=flat)
+![MM/GBSA](https://img.shields.io/badge/MM%2FGBSA-Binding%20free%20energy-1f6feb?style=flat)
+![Python](https://img.shields.io/badge/Python-Data%20analysis-1f6feb?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Shell%20%2F%20HPC-1f6feb?style=flat&logo=linux&logoColor=white)
+![VMD](https://img.shields.io/badge/VMD%20%2F%20Chimera-Visualisation-1f6feb?style=flat)
 
 **Experimental**
 
 ![Cell assays](https://img.shields.io/badge/Cell--based%20assays-Aequorin%20%7C%20Fluo--4-2ea44f?style=flat)
 ![Protein production](https://img.shields.io/badge/Recombinant%20protein%20production-E.%20coli-2ea44f?style=flat)
-![Cell culture](https://img.shields.io/badge/Mammalian%20cell%20culture-HEK293%20%7C%20transient%20co--transfection-2ea44f?style=flat)
+![Cell culture](https://img.shields.io/badge/Mammalian%20cell%20culture-HEK293%20%7C%20Transient%20co--transfection-2ea44f?style=flat)
 ![Purification](https://img.shields.io/badge/Purification-AKTA%20FPLC%20%7C%20IMAC%20%7C%20SEC-2ea44f?style=flat)
 ![NanoDSF](https://img.shields.io/badge/Biophysics-NanoDSF-2ea44f?style=flat)
 ![Molecular biology](https://img.shields.io/badge/Molecular%20biology-Cloning%20%7C%20PCR-2ea44f?style=flat)
